@@ -18,7 +18,8 @@ public class TestaIntegracao {
         var user = "Gere 05 Perguntas sobre Matemática";
         var system = "Matemática é uma área do conhecimento que inclui os tópicos dos números, fórmulas e estruturas relacionadas, formas e os espaços em que estão contidos, e quantidades e suas mudanças. ";
 
-        var service = new OpenAiService("your_token");
+        var chave = System.getenv("OPENIA_API_KEY");
+        var service = new OpenAiService(chave);
 
         var completionRequest = ChatCompletionRequest
                 .builder()
@@ -31,7 +32,7 @@ public class TestaIntegracao {
         service
                 .createChatCompletion(completionRequest)
                 .getChoices()
-                .forEach(System.out::println);
+                .forEach(c -> System.out.print(c.getMessage().getContent()));
 
     }
 }
