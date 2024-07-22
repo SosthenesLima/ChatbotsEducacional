@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4985114b-0dd8-45ce-872c-4ceaa8dc1eef" name="Changes" comment="Commit Integração com a API 04" />
+    <list default="true" id="4985114b-0dd8-45ce-872c-4ceaa8dc1eef" name="Changes" comment="Commit Integração com a API 05" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +84,7 @@
       <workItem from="1721260477167" duration="571000" />
       <workItem from="1721308130703" duration="4267000" />
       <workItem from="1721345784353" duration="194000" />
+      <workItem from="1721431587658" duration="82000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Inicial">
       <option name="closed" value="true" />
@@ -133,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721345861145</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commit Integração com a API 05">
+      <option name="closed" value="true" />
+      <created>1721431608013</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721431608013</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +166,7 @@
     <MESSAGE value="Commit Integração com a API 02" />
     <MESSAGE value="Commit Integração com a API 03" />
     <MESSAGE value="Commit Integração com a API 04" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Integração com a API 04" />
+    <MESSAGE value="Commit Integração com a API 05" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Integração com a API 05" />
   </component>
 </project>
