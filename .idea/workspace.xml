@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4985114b-0dd8-45ce-872c-4ceaa8dc1eef" name="Changes" comment="Commit Integração com a API 05" />
+    <list default="true" id="4985114b-0dd8-45ce-872c-4ceaa8dc1eef" name="Changes" comment="Commit Teste">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +88,8 @@
       <workItem from="1721308130703" duration="4267000" />
       <workItem from="1721345784353" duration="194000" />
       <workItem from="1721431587658" duration="82000" />
+      <workItem from="1721610528336" duration="50000" />
+      <workItem from="1722090878222" duration="1305000" />
     </task>
     <task id="LOCAL-00001" summary="Commit Inicial">
       <option name="closed" value="true" />
@@ -142,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721431608013</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit Teste">
+      <option name="closed" value="true" />
+      <created>1721610547800</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721610547800</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +180,7 @@
     <MESSAGE value="Commit Integração com a API 03" />
     <MESSAGE value="Commit Integração com a API 04" />
     <MESSAGE value="Commit Integração com a API 05" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit Integração com a API 05" />
+    <MESSAGE value="Commit Teste" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit Teste" />
   </component>
 </project>
